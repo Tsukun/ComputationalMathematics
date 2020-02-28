@@ -1,0 +1,2 @@
+﻿  Source.cpp
+c:\users\tsuku\source\repos\lab1\lab1\source.cpp(40): error C4700: использована неинициализированная локальная переменная "temp"
