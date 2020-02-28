@@ -20,7 +20,7 @@ double X(double x)
 
 double Newton(double x, double e)
 {
-	double tmp;
+	double tmp=0;
 	int n = 0;
 	tmp = x + 2 * e;
 	while (abs(x - tmp) > e)
@@ -36,7 +36,7 @@ double Newton(double x, double e)
 double Iteration(double a, double b, double e)
 {
 	int n = 0;
-	double temp, x = (a + b) / 2;
+	double temp=0, x = (a + b) / 2;
 	while (abs(x - temp) > e)
 	{
 		temp = x;

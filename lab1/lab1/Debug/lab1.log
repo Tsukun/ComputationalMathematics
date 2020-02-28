@@ -1,2 +1,2 @@
 ﻿  Source.cpp
-c:\users\tsuku\source\repos\lab1\lab1\source.cpp(40): error C4700: использована неинициализированная локальная переменная "temp"
+  lab1.vcxproj -> D:\githubpr\ComputationalMathematics\lab1\Debug\lab1.exe
